@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0AECCFC82D79907200D9273A /* LicenceAndAttributionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AECCFC42D79907200D9273A /* LicenceAndAttributionView.swift */; };
+		0AECCFC92D79907200D9273A /* PrivacyPolicyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AECCFC52D79907200D9273A /* PrivacyPolicyView.swift */; };
+		0AECCFCA2D79907200D9273A /* TermOfServiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AECCFC62D79907200D9273A /* TermOfServiceView.swift */; };
 		231B3F212D087A4C0069A07D /* MetricTableColumn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B3F202D087A4C0069A07D /* MetricTableColumn.swift */; };
 		231B3F222D087A4C0069A07D /* MetricsColumnList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B3F1F2D087A4C0069A07D /* MetricsColumnList.swift */; };
 		231B3F252D087C3C0069A07D /* EnvironmentDefaultColumns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231B3F242D087C3C0069A07D /* EnvironmentDefaultColumns.swift */; };
@@ -271,6 +274,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0AECCFC42D79907200D9273A /* LicenceAndAttributionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicenceAndAttributionView.swift; sourceTree = "<group>"; };
+		0AECCFC52D79907200D9273A /* PrivacyPolicyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyPolicyView.swift; sourceTree = "<group>"; };
+		0AECCFC62D79907200D9273A /* TermOfServiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermOfServiceView.swift; sourceTree = "<group>"; };
 		231B3F1F2D087A4C0069A07D /* MetricsColumnList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetricsColumnList.swift; sourceTree = "<group>"; };
 		231B3F202D087A4C0069A07D /* MetricTableColumn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetricTableColumn.swift; sourceTree = "<group>"; };
 		231B3F242D087C3C0069A07D /* EnvironmentDefaultColumns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentDefaultColumns.swift; sourceTree = "<group>"; };
@@ -582,6 +588,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0AECCFC72D79907200D9273A /* Legal */ = {
+			isa = PBXGroup;
+			children = (
+				0AECCFC42D79907200D9273A /* LicenceAndAttributionView.swift */,
+				0AECCFC52D79907200D9273A /* PrivacyPolicyView.swift */,
+				0AECCFC62D79907200D9273A /* TermOfServiceView.swift */,
+			);
+			path = Legal;
+			sourceTree = "<group>";
+		};
 		231B3F1E2D0879BC0069A07D /* Metrics Visualization */ = {
 			isa = PBXGroup;
 			children = (
@@ -739,6 +755,7 @@
 		DD4A911C2708C57100501B7E /* Settings */ = {
 			isa = PBXGroup;
 			children = (
+				0AECCFC72D79907200D9273A /* Legal */,
 				DDD5BB0E2C285F92007E03CA /* Logs */,
 				DD93800C2BA74CE3008BEC06 /* Channels */,
 				DD97E96728EFE9A00056DDA4 /* About.swift */,
@@ -1530,6 +1547,9 @@
 				DDDCD5702BB26F5C00BE6B60 /* NodeListFilter.swift in Sources */,
 				DD6F65742C6CB80A0053C113 /* View.swift in Sources */,
 				DD1933762B0835D500771CD5 /* PositionAltitudeChart.swift in Sources */,
+				0AECCFC82D79907200D9273A /* LicenceAndAttributionView.swift in Sources */,
+				0AECCFC92D79907200D9273A /* PrivacyPolicyView.swift in Sources */,
+				0AECCFCA2D79907200D9273A /* TermOfServiceView.swift in Sources */,
 				DD415828285859C4009B0E59 /* TelemetryConfig.swift in Sources */,
 				DD6D5A332CA1178300ED3032 /* TraceRoute.swift in Sources */,
 				DDB6CCFB2AAF805100945AF6 /* NodeMapSwiftUI.swift in Sources */,

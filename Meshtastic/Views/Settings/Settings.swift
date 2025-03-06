@@ -152,6 +152,31 @@ struct Settings: View {
 		}
 	}
 
+	var legalDocumentsSection: some View {
+		Section("Legal Documents") {
+			NavigationLink {
+				// Create a new view for Terms of Service
+				TermsOfServiceView()
+			} label: {
+				Label("Terms of Service", systemImage: "doc.text")
+			}
+			
+			NavigationLink {
+				// Create a new view for Privacy Policy
+				PrivacyPolicyView()
+			} label: {
+				Label("Privacy Policy", systemImage: "hand.raised.fill")
+			}
+			
+			NavigationLink {
+				// Create a new view for License Agreements
+				LicenseAgreementsView()
+			} label: {
+				Label("License Agreements", systemImage: "doc.badge.gearshape")
+			}
+		}
+	}
+
 	var moduleConfigurationSection: some View {
 		Section("module.configuration") {
 			NavigationLink(value: SettingsNavigationState.ambientLighting) {

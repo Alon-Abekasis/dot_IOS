@@ -68,6 +68,9 @@
         }
       }
     },
+    "\"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n\"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n\"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n\"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License." : {
+
+    },
     "(Re)define PIN_GPS_EN for your board." : {
       "localizations" : {
         "sr" : {
@@ -851,6 +854,9 @@
         }
       }
     },
+    "•" : {
+
+    },
     "< 1%" : {
       "localizations" : {
         "sr" : {
@@ -908,6 +914,9 @@
           }
         }
       }
+    },
+    "1. Definitions." : {
+
     },
     "2.4 Ghz" : {
       "extractionState" : "manual",
@@ -1061,7 +1070,7 @@
     "About" : {
 
     },
-    "About Meshtastic" : {
+    "About dot SAGA" : {
 
     },
     "Accuracy %@" : {
@@ -1109,6 +1118,9 @@
           }
         }
       }
+    },
+    "Acknowledgment" : {
+
     },
     "Actions" : {
       "localizations" : {
@@ -1874,6 +1886,7 @@
       }
     },
     "An open source, off-grid, decentralized, mesh network that runs on affordable, low-power radios." : {
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1910,6 +1923,12 @@
           }
         }
       }
+    },
+    "Apache License\nVersion 2.0, January 2004" : {
+
+    },
+    "Apache License, Version 2.0" : {
+
     },
     "App Data" : {
       "localizations" : {
@@ -1960,6 +1979,7 @@
       }
     },
     "Apple Apps" : {
+      "extractionState" : "stale",
       "localizations" : {
         "sr" : {
           "stringUnit" : {
@@ -2086,6 +2106,9 @@
           }
         }
       }
+    },
+    "Attribution" : {
+
     },
     "Australia / New Zealand" : {
       "extractionState" : "manual",
@@ -2719,6 +2742,7 @@
       }
     },
     "Buy Complete Radios" : {
+      "extractionState" : "stale",
       "localizations" : {
         "sr" : {
           "stringUnit" : {
@@ -2749,6 +2773,15 @@
           }
         }
       }
+    },
+    "By placing an order, you warrant that you have the legal right to do so. You may be asked to provide payment information, and you represent that all provided information is accurate." : {
+
+    },
+    "By posting content on the Service, you grant Dot SAGA LTD the right to use, modify, publicly display, reproduce, and distribute it. You retain ownership of your content but must ensure it does not violate any laws or third-party rights." : {
+
+    },
+    "By sending us an email: " : {
+
     },
     "Bytes" : {
       "extractionState" : "migrated",
@@ -3258,6 +3291,9 @@
 
     },
     "Ch3 Voltage" : {
+
+    },
+    "Changes to These Terms" : {
 
     },
     "Channel" : {
@@ -4156,6 +4192,9 @@
           }
         }
       }
+    },
+    "Collecting and Using Your Personal Data" : {
+
     },
     "Color" : {
       "localizations" : {
@@ -5854,6 +5893,12 @@
         }
       }
     },
+    "Contact Us" : {
+
+    },
+    "Contact@dotsaga.live" : {
+
+    },
     "contacts" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -5983,6 +6028,12 @@
           }
         }
       }
+    },
+    "Content" : {
+
+    },
+    "Content Restrictions" : {
+
     },
     "Control Type" : {
       "localizations" : {
@@ -6143,6 +6194,9 @@
           }
         }
       }
+    },
+    "Copyright Policy" : {
+
     },
     "Could not find node" : {
       "localizations" : {
@@ -6448,6 +6502,9 @@
           }
         }
       }
+    },
+    "Definitions" : {
+
     },
     "delete" : {
       "localizations" : {
@@ -8514,6 +8571,9 @@
         }
       }
     },
+    "Disclaimer" : {
+
+    },
     "Disconnect" : {
       "localizations" : {
         "de" : {
@@ -8900,6 +8960,7 @@
       }
     },
     "Documentation" : {
+      "extractionState" : "stale",
       "localizations" : {
         "sr" : {
           "stringUnit" : {
@@ -8914,6 +8975,9 @@
           }
         }
       }
+    },
+    "dot SAGA revolutionizes safety, shifting it from collective to personal. \n \nWe ensure your loved ones are safe and help is always one click away." : {
+
     },
     "Double Tap as Button" : {
       "localizations" : {
@@ -10501,6 +10565,12 @@
         }
       }
     },
+    "For the purposes of these Terms and Conditions:" : {
+
+    },
+    "For the purposes of this Privacy Policy:" : {
+
+    },
     "Frequency" : {
       "localizations" : {
         "de" : {
@@ -10758,6 +10828,7 @@
       }
     },
     "Get custom waterproof solar and detection sensor router nodes, aluminium desktop nodes and rugged handsets." : {
+      "extractionState" : "stale",
       "localizations" : {
         "sr" : {
           "stringUnit" : {
@@ -10836,6 +10907,9 @@
           }
         }
       }
+    },
+    "Governing Law" : {
+
     },
     "GPIO" : {
       "localizations" : {
@@ -11709,6 +11783,7 @@
       }
     },
     "Help with App Development" : {
+      "extractionState" : "stale",
       "localizations" : {
         "sr" : {
           "stringUnit" : {
@@ -11999,6 +12074,9 @@
           }
         }
       }
+    },
+    "http://www.apache.org/licenses/" : {
+
     },
     "Hum" : {
       "localizations" : {
@@ -12315,6 +12393,12 @@
           }
         }
       }
+    },
+    "If you have any questions about these Terms and Conditions:" : {
+
+    },
+    "If you have questions about this Privacy Policy:" : {
+
     },
     "Ignore MQTT" : {
       "localizations" : {
@@ -13087,6 +13171,15 @@
           }
         }
       }
+    },
+    "Intellectual Property" : {
+
+    },
+    "Interpretation" : {
+
+    },
+    "Interpretation and Definitions" : {
+
     },
     "interval.eighteen.hours" : {
       "extractionState" : "migrated",
@@ -15278,6 +15371,15 @@
         }
       }
     },
+    "Legal Documents" : {
+
+    },
+    "License" : {
+
+    },
+    "License & Attribution" : {
+
+    },
     "Licensed Operator" : {
       "localizations" : {
         "sr" : {
@@ -15310,6 +15412,9 @@
         }
       }
     },
+    "Limitation of Liability" : {
+
+    },
     "Line Series" : {
       "localizations" : {
         "sr" : {
@@ -15319,6 +15424,12 @@
           }
         }
       }
+    },
+    "Linkedin" : {
+
+    },
+    "Links to Other Websites" : {
+
     },
     "Loading Logs. . ." : {
       "localizations" : {
@@ -19576,6 +19687,7 @@
       }
     },
     "Meshtastic® Copyright Meshtastic LLC" : {
+      "extractionState" : "stale",
       "localizations" : {
         "sr" : {
           "stringUnit" : {
@@ -22128,6 +22240,18 @@
         }
       }
     },
+    "Our liability is limited to the amount you paid for the Service or $100 if no payment was made. We are not liable for indirect or consequential damages." : {
+
+    },
+    "Our Privacy Policy was last updated on February 5th, 2025." : {
+
+    },
+    "Our Service may link to third-party websites. We are not responsible for their content or privacy practices. Please review their terms before using." : {
+
+    },
+    "Our Terms and Conditions were last updated on February 5th, 2025." : {
+
+    },
     "Output live debug logging over serial, view and export position-redacted device logs over Bluetooth." : {
       "localizations" : {
         "de" : {
@@ -22792,6 +22916,9 @@
         }
       }
     },
+    "Placing Orders for Products" : {
+
+    },
     "Please connect to a radio to configure settings." : {
       "localizations" : {
         "sr" : {
@@ -22807,6 +22934,9 @@
           }
         }
       }
+    },
+    "Please read these Terms and Conditions carefully before using Dot SAGA LTD's app and website." : {
+
     },
     "Please set a region" : {
       "extractionState" : "manual",
@@ -23316,6 +23446,12 @@
         }
       }
     },
+    "Prices and Payments" : {
+
+    },
+    "Prices are subject to change without notice. Payments can be made using various methods, including Visa, MasterCard, or online options like PayPal." : {
+
+    },
     "Primary" : {
       "localizations" : {
         "sr" : {
@@ -23358,6 +23494,9 @@
         }
       }
     },
+    "Privacy Policy" : {
+
+    },
     "Private Key" : {
       "localizations" : {
         "de" : {
@@ -23395,6 +23534,12 @@
           }
         }
       }
+    },
+    "Promotions" : {
+
+    },
+    "Promotions offered through the Service may have separate rules. If they conflict with these Terms, the promotion rules will apply." : {
+
     },
     "Public Key" : {
       "localizations" : {
@@ -24627,6 +24772,7 @@
       }
     },
     "Review the app" : {
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -29697,6 +29843,18 @@
         }
       }
     },
+    "Termination" : {
+
+    },
+    "Terms and Conditions" : {
+
+    },
+    "TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION" : {
+
+    },
+    "Terms of Service" : {
+
+    },
     "Tertiary Admin Key" : {
       "localizations" : {
         "de" : {
@@ -29762,6 +29920,9 @@
           }
         }
       }
+    },
+    "The Company reserves the right to remove content that violates these Terms." : {
+
     },
     "The compass heading on the screen outside of the circle will always point north." : {
       "localizations" : {
@@ -29981,6 +30142,12 @@
         }
       }
     },
+    "The Service and its content, excluding content provided by users, are the property of Dot SAGA LTD and its licensors. You may not use our trademarks without prior written consent." : {
+
+    },
+    "The Service is provided \"AS IS\" without warranties of any kind. We do not guarantee the Service will be uninterrupted, error-free, or secure." : {
+
+    },
     "The specified device has disconnected from us" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -30046,6 +30213,12 @@
           }
         }
       }
+    },
+    "These Terms and Conditions govern the use of the Service and set out the rights and obligations of all users. By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not access the Service." : {
+
+    },
+    "These Terms are governed by the laws of Israel. Any disputes will be resolved under Israeli law." : {
+
     },
     "Thirty Minutes" : {
       "localizations" : {
@@ -30124,6 +30297,12 @@
           }
         }
       }
+    },
+    "This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use Dot SAGA LTD's app and website and informs you about your privacy rights and how the law protects you." : {
+
+    },
+    "This service would not be possible without the incredible work of the Meshtastic open-source community. Thank you, Meshtastic." : {
+
     },
     "This will disable fixed position and remove the currently set position." : {
       "localizations" : {
@@ -31268,6 +31447,9 @@
         }
       }
     },
+    "Types of Data Collected" : {
+
+    },
     "Ukraine 433mhz" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -31902,6 +32084,9 @@
         }
       }
     },
+    "User Accounts" : {
+
+    },
     "User Config" : {
       "localizations" : {
         "sr" : {
@@ -32113,6 +32298,7 @@
       }
     },
     "Version: %@ (%@) " : {
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -32378,6 +32564,21 @@
         }
       }
     },
+    "We may suspend or terminate your account for violating these Terms. Upon termination, your right to use the Service ceases immediately." : {
+
+    },
+    "We reserve the right to cancel orders due to errors or suspected fraud." : {
+
+    },
+    "We reserve the right to modify these Terms. We will notify you of any material changes at least 30 days before they take effect. Continued use of the Service means you accept the new Terms." : {
+
+    },
+    "We respect intellectual property rights. If you believe your copyrighted work has been infringed, contact us at Contact@dotsaga.live with detailed information about the infringement." : {
+
+    },
+    "We use your personal data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy." : {
+
+    },
     "Weather Conditions" : {
       "localizations" : {
         "de" : {
@@ -32448,7 +32649,11 @@
         }
       }
     },
+    "What is dot SAGA?" : {
+
+    },
     "What is Meshtastic?" : {
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -32485,6 +32690,9 @@
           }
         }
       }
+    },
+    "When creating an account, you must provide accurate, complete, and current information. You are responsible for safeguarding your password and any activities under your account." : {
+
     },
     "When using in GPIO mode, keep the output on for this long. " : {
       "localizations" : {
@@ -32568,6 +32776,9 @@
           }
         }
       }
+    },
+    "Words with capitalized initial letters have meanings defined under the following conditions. These definitions apply whether the terms appear in singular or plural." : {
+
     },
     "x" : {
       "localizations" : {
@@ -32693,6 +32904,15 @@
         }
       }
     },
+    "You may not post content that is:" : {
+
+    },
+    "You may not use a username that belongs to someone else without proper authorization or any name that is offensive, vulgar, or obscene." : {
+
+    },
+    "You represent that you are over 18 years old. Dot SAGA LTD does not permit those under 18 to use the Service." : {
+
+    },
     "Your current location will be set as the fixed position and broadcast over the mesh on the position interval." : {
       "localizations" : {
         "sr" : {
@@ -32779,6 +32999,9 @@
         }
       }
     },
+    "Your Right to Post Content" : {
+
+    },
     "Your route file must have both Latitude and Longitude columns and headers." : {
       "localizations" : {
         "sr" : {
@@ -32788,6 +33011,9 @@
           }
         }
       }
+    },
+    "Your use of the Service is also conditioned on your acceptance of our Privacy Policy. Please read it carefully before using our Service." : {
+
     }
   },
   "version" : "1.0"

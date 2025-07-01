@@ -155,24 +155,21 @@ struct Settings: View {
 	var legalDocumentsSection: some View {
 		Section("Legal Documents") {
 			NavigationLink {
-				// Create a new view for Terms of Service
-				TermsOfServiceView()
+				TermOfServiceView()
 			} label: {
 				Label("Terms of Service", systemImage: "doc.text")
 			}
 			
 			NavigationLink {
-				// Create a new view for Privacy Policy
 				PrivacyPolicyView()
 			} label: {
 				Label("Privacy Policy", systemImage: "hand.raised.fill")
 			}
 			
 			NavigationLink {
-				// Create a new view for License Agreements
-				LicenseAgreementsView()
+				LicenceAndAttributionView()
 			} label: {
-				Label("License Agreements", systemImage: "doc.badge.gearshape")
+				Label("License & Attribution", systemImage: "doc.badge.gearshape")
 			}
 		}
 	}
@@ -331,7 +328,7 @@ struct Settings: View {
 			List {
 				NavigationLink(value: SettingsNavigationState.about) {
 					Label {
-						Text("About Meshtastic")
+						Text("About dot SAGA")
 					} icon: {
 						Image(systemName: "questionmark.app")
 					}
@@ -434,6 +431,7 @@ struct Settings: View {
 					}
 					radioConfigurationSection
 					deviceConfigurationSection
+					legalDocumentsSection
 					moduleConfigurationSection
 					loggingSection
 #if DEBUG

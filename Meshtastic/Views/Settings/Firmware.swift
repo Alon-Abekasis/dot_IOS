@@ -92,7 +92,7 @@ struct Firmware: View {
 					.font(.caption)
 					.padding(.bottom)
 
-				if currentDevice?.architecture == Meshtastic.Architecture.nrf52840 {
+				if currentDevice?.architecture == dot_SAGA.Architecture.nrf52840 {
 					VStack(alignment: .leading) {
 
 						Text("Drag & Drop is the recommended way to update firmware for NRF devices. If your iPhone or iPad is USB-C it will work with your regular USB-C charging cable, for lightning devices you need the Apple Lightning to USB camera adaptor.")
@@ -144,7 +144,7 @@ struct Firmware: View {
 								.font(.callout)
 						}
 					}
-				} else if currentDevice?.architecture == Meshtastic.Architecture.esp32 || currentDevice?.architecture == Meshtastic.Architecture.esp32S3 || currentDevice?.architecture == Meshtastic.Architecture.esp32C3 {
+				} else if currentDevice?.architecture == dot_SAGA.Architecture.esp32 || currentDevice?.architecture == dot_SAGA.Architecture.esp32S3 || currentDevice?.architecture == dot_SAGA.Architecture.esp32C3 {
 					VStack(alignment: .leading) {
 						Text("ESP32 Device Firmware Update")
 							.font(.title3)

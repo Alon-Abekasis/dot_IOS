@@ -13,8 +13,8 @@ struct MeshtasticLogo: View {
 	var body: some View {
 
 		#if targetEnvironment(macCatalyst)
-			VStack {
-				Image("logo-white")
+			VStack(alignment: .leading) {
+				Image("m-logo-white")
 					.resizable()
 					.renderingMode(.template)
 					.foregroundColor(.accentColor)
@@ -22,16 +22,18 @@ struct MeshtasticLogo: View {
 			}
 			.padding(.bottom, 5)
 			.padding(.top, 5)
-			.offset(x: -15)
+			.offset(x: -5.5)
+			.frame(maxWidth: .infinity, alignment: .leading)
 		#else
-			VStack {
-				Image(colorScheme == .dark ? "logo-white" : "logo-black")
+			VStack(alignment: .leading) {
+				Image(colorScheme == .dark ? "m-logo-white" : "m-logo-black")
 					.resizable()
 					.renderingMode(.template)
 					.scaledToFit()
 			}
 			.padding(.bottom, 5)
-			.offset(x: -15)
+			.offset(x: -5.5)
+			.frame(maxWidth: .infinity, alignment: .leading)
 		#endif
 	}
 }
